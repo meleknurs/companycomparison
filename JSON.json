@@ -1,0 +1,145 @@
+[
+    {
+        "company": "Galenica",
+        "location": "Bern",
+        "number of positions": 2,
+        "IT field": [
+            "Software/Application Development",
+            "DevOps",
+            "Web Development",
+            "Testing"
+        ]
+    },
+    {
+        "company": "IBM Schweiz",
+        "location": "Zurich",
+        "number of positions": 1,
+        "IT field": [
+            "Machine Learning / Data Science",
+            "Data Analytics / Business Intelligence",
+            "Other",
+            "AWS / Cloud Services",
+            "IT support / Systems & Networks Management",
+            "DevOps",
+            "Robotic Process Automation"
+        ]
+    },
+    {
+        "company": "Insel Gruppe",
+        "location": "Bern",
+        "number of positions": 1,
+        "IT field": [
+            "Software/Application Development",
+            "Data Analytics / Business Intelligence",
+            "Machine Learning / Data Science"
+        ]
+    },
+    {
+        "company": "Iterativ GmbH",
+        "location": "Powercoder Office Bern",
+        "number of positions": 1,
+        "IT field": [
+            "Software/Application Development",
+            "Web Development",
+            "IT support / Systems & Networks Management",
+            "Testing"
+        ]
+    },
+    {
+        "company": "KPT",
+        "location": "KPT Bern",
+        "number of positions": 1,
+        "IT field": [
+            "Development",
+            "Software/Application Development"
+        ]
+    },
+    {
+        "company": "Liip AG",
+        "location": "Basel, Zurich",
+        "number of positions": 2,
+        "IT field": [
+            "Software/Application Development"
+        ]
+    },
+    {
+        "company": "M&F Engineering AG",
+        "location": "8951 Fahrweid",
+        "number of positions": 1,
+        "IT field": [
+            "Software/Application Development"
+        ]
+    },
+    {
+        "company": "On Ag",
+        "location": "Zurich",
+        "number of positions": 1,
+        "IT field": [
+            "Web Development",
+            "Software/Application Development",
+            "DevOps"
+        ]
+    },
+    {
+        "company": "PwC Switzerland",
+        "location": "Birchstrasse 160, 8050 Zürich",
+        "number of positions": 3,
+        "IT field": [
+            "Web Development",
+            "DevOps",
+            "Microsoft Power Platform",
+            "AWS / Cloud Services",
+            "Cyber Security"
+        ]
+    },
+    {
+        "company": "Roche",
+        "location": "Basel",
+        "number of positions": 3,
+        "IT field": [
+            "Pharma commercial",
+            "Data Analytics / Business Intelligence",
+            "DevOps"
+        ]
+    },
+    {
+        "company": "Siemens Schweiz AG",
+        "location": "Zug",
+        "number of positions": 2,
+        "IT field": [
+            "R&D Zug Software",
+            "AWS / Cloud Services",
+            "Web Development",
+            "DevOps",
+            "Cyber Security"
+        ]
+    },
+    {
+        "company": "Supercomputing Systems AG",
+        "location": "Technoparkstrasse 1, 8005 Zürich",
+        "number of positions": 1,
+        "IT field": [
+            "Software Development for Customers",
+            "Web Development"
+        ]
+    },
+    {
+        "company": "Swisscom (Schweiz) AG",
+        "location": "Bern or Zurich",
+        "number of positions": 3,
+        "IT field": [
+            "IT Software Development / Cyber Security",
+            "DevOps",
+            "Software/Application Development"
+        ]
+    },
+    {
+        "company": "Wyssen Avalanche Control AG",
+        "location": "Reichenbach i.K.",
+        "number of positions": 1,
+        "IT field": [
+            "Web Application Development",
+            "Software/Application Development"
+        ]
+    }
+]
