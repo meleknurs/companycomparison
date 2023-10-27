@@ -1,3 +1,4 @@
+
 import myJson from './JSON.json' assert {type: 'json'};
 //
  let filterByCom =myJson.filter(FltrFun)
@@ -18,3 +19,5 @@ import myJson from './JSON.json' assert {type: 'json'};
 
     
  
+
+
